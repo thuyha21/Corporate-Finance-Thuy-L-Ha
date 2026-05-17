@@ -2,6 +2,13 @@
 
 Executive memos and decision documents. In professional finance, memos capture analytical framing, recommendations, and the reasoning behind key decisions. They are the primary written communication between analysts and senior leadership.
 
+```
+decisions/                                  # ← Place company selection memo here
+|____2026-05-17-ha-vitacoco-selection.md    # Ha-Stage 2-company selection-memo
+|____README.md
+
+```
+
 ## What belongs here
 
 - **Company selection memos** (Stage 2) — justifying your company choice and analytical approach
